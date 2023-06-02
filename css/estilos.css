@@ -1,0 +1,147 @@
+.ancho {
+    width: 100vw;
+}
+
+
+.navegacion {
+padding-top: 2%;
+padding-bottom: 2%;
+
+}
+
+.codoacodo {
+width: 10%;
+float: left;
+}
+
+.navdrecha {
+    padding-right: 1%;
+   
+}
+
+.parte1 {
+    background-image: url(../img/ba1.jpg);
+    background-size: cover;
+    width: 100vw;
+    
+}
+
+.textoparte1 {
+    width: 50%;
+}
+
+.Comprar {
+float: right;
+margin-left: 1% ;
+width: 30%;
+margin-top: 2%;
+font-size: larger;
+}
+
+.orador {
+ float: right;
+ width: 30%;
+ margin-top: 2%;
+ font-size: larger;
+}
+
+.contenidoparte1 {
+padding-right: 5%;
+padding-top: 30%;
+padding-bottom: 30%;
+padding-left: 2%;
+width: 100%;
+background-color: rgba(0, 0, 0, 0.8);
+
+}
+
+.steve {
+width: 25vw;
+}
+
+.bill {
+  width: 25vw;
+
+}
+
+
+.ada {
+    width: 25vw;
+}
+
+.formulario {
+padding-bottom: 2%;
+
+}
+
+.formInputA {
+width: 22%;
+margin-right: 2%;
+}
+
+.formInputB {    
+width: 22%;
+
+}
+
+.formhablar {
+width: 46%;
+margin-top: 1%;
+}
+
+.formcorreo {
+    width: 46%;
+}
+.cant {
+    margin-left: 27%;
+}
+.categ {
+    margin-left: 20%;
+}
+
+.recorda {
+    margin-left: 27%;
+}
+
+.enviar {
+background-color: rgb(132, 189, 46);
+border: 0;
+border-radius: 4px;
+color: white;
+width: 46%;
+}
+
+.precio {
+    padding-right: 35%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    
+}
+
+.precioTotal {
+    color: blue;
+}
+
+.borrar {
+    background-color: rgb(132, 189, 46);
+    border: 0;
+    border-radius: 4px;
+    color: white;
+    width: 22%;
+    margin-right: 1%;
+}
+
+.resumen {
+    background-color: rgb(132, 189, 46);
+    border: 0;
+    border-radius: 4px;
+    color: white;
+    width: 22%;
+    margin-left: 1%;
+}
+
+.footer {
+  background-color: rgb(8, 68, 92);
+
+}
