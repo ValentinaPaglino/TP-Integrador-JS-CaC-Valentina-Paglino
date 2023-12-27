@@ -8,7 +8,8 @@ Este es el segundo trabajo realizado durante el curso de Full Stack JAVA del pro
 - Ingresar los datos requeridos
 - Seleccionar cantidad de tickets
 - Seleccionar categoría (Estudiante, Trainee o Junior)
-- Según la cantidad y categoría seleccionadas, visualizar el precio total con el descuento correspondiente aplicado
+- Según la cantidad y categoría seleccionadas, visualizar el precio total con el descuento correspondiente aplicado al hacer click en "Resumen"
+- Borrar los datos ingresados (reiniciar formulario)
 
   ## Tecnologías utilizadas
   ![download](https://github.com/ValentinaPaglino/TP-Integrador-JS-CaC-Valentina-Paglino/assets/87662280/ed1a7c6e-1894-4423-8cd7-4fcaaa2dff5e)
